@@ -28,7 +28,7 @@ Output is negative because <i>0.89728656</i> is the negative probability while <
 In this assignment we want to create a word suggester (like google search does when you're typing words into the search bar). To do this, an <b>N-gram Language Model</b> is created, i.e. a <i>probability matrix</i> that is used to make predictions. Also in this case the model is tested and evaluated with the <i>perplexity measure</i>.
 
 ### Example
-Suppose that your input text is `i have just`. Output model for this input is the following:
+Suppose that your input text is `i have just`. The model output for this input is the following:
 ```
 i have just been  -> Probability = 0.008729388942773999
 i have just such  -> Probability = 0.002263174911089555
