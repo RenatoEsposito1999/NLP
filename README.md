@@ -2,9 +2,9 @@
 This repository contains assignments of **natural language processing** university course [2022/2023]
 
 ### Team:
-- [Renato Esposito](https://github.com/RenatoEsposito1999)
+- [Luca Rubino](https://github.com/Luruu)
 - [Vincenzo Mele](https://github.com/VincenzoMele)
-- Luca Rubino (me)
+- Renato Esposito (me)
 <br></br>
 ## First Assignment: Statistics and Some Preprocessing Steps
 The first step was to calculate some statistics of the input corpus.
