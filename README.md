@@ -22,7 +22,7 @@ Result: ['neg']
  ```
 Output is negative because <i>0.89728656</i> is the negative probability while <i>0.10271344</i> is the positive probability.
 <br></br>
-
+ 
 
 ## Third Assignment: N-gram Language Model
 In this assignment we want to create a word suggester (like google search does when you're typing words into the search bar). To do this, an <b>N-gram Language Model</b> is created, i.e. a <i>probability matrix</i> that is used to make predictions. Also in this case the model is tested and evaluated with the <i>perplexity measure</i>.
